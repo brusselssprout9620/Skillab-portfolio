@@ -1,0 +1,11 @@
+ID,Nume Produs,Categorie,Pret,Discount (%),Cantitate Vândută,Venit Brut,Oras,Pret_Normalizat,Venit Net,Venit per Produs
+1,Laptop,Electrocasnice,4000.0,10,10.0,40000,Bucuresti,1.0,36000.0,3600.0
+3,Televizor,Electrocasnice,2000.0,0,30.0,60000,Timisoara,0.2,60000.0,2000.0
+4,Frigider,Electrocasnice,3000.0,20,20.0,60000,Iasi,0.6,48000.0,2400.0
+5,Laptop,Electrocasnice,4000.0,10,12.0,48000,Bucuresti,1.0,43200.0,3600.0
+6,Telefon,Electrocasnice,1500.0,5,45.0,67500,Cluj,0.0,64125.0,1425.0
+7,Televizor,Electrocasnice,2000.0,0,28.0,56000,Timisoara,0.2,56000.0,2000.0
+9,Laptop,Electrocasnice,4000.0,10,12.0,48000,Bucuresti,1.0,43200.0,3600.0
+10,Telefon,Electrocasnice,1500.0,5,55.0,82500,Cluj,0.0,78375.0,1425.0
+11,Televizor,Electrocasnice,2000.0,0,32.0,64000,Timisoara,0.2,64000.0,2000.0
+12,Frigider,Electrocasnice,3000.0,20,25.0,75000,Iasi,0.6,60000.0,2400.0
